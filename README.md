@@ -55,7 +55,7 @@ async function getChapters() {
 
 ```
 
-[![Edit bold-ellis-6rg1t](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/hardcore-bush-nq2t26?file=/src/index.mjs)
+[![Edit bold-ellis-6rg1t](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/p/sandbox/still-tree-m8rh6y?file=%2Fhttp.ts%3A7%2C1)
 
 ## Usage
 
