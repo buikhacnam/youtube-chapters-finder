@@ -55,7 +55,7 @@ async function getChapters() {
 
 ```
 
-[![Edit bold-ellis-6rg1t](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/p/sandbox/still-tree-m8rh6y?file=%2Fhttp.ts%3A7%2C1)
+[![Edit bold-ellis-6rg1t](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/p/devbox/youtube-chapters-finder-v4mz2m?file=%2Findex.ts%3A13%2C22)
 
 ## Usage
 
