@@ -33,7 +33,7 @@ async function getChapters() {
   {
     title: 'Introduction',
     time: '0:00',
-    url: 'https://youtube.com/watch?v=Gi8LUnhP5yU&t=0s'
+    url: 'https://youtube.com/watch?v=Gi8LUnhP5yU'
   },
   {
     title: 'Are there intelligent life out there',

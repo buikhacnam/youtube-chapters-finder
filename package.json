@@ -1,6 +1,6 @@
 {
   "name": "youtube-chapters-finder",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "A tiny npm library that gets chapters from any Youtube video",
   "author": "Casey Bui",
   "license": "MIT",
@@ -15,8 +15,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "buikhacnam/youtube-chapters-finder"
-},
+    "url": "git+https://github.com/buikhacnam/youtube-chapters-finder.git"
+  },
   "keywords": [
     "youtube chapters",
     "get youtube chapters",
@@ -30,5 +30,9 @@
     "get chapters from a youtube video npm",
     "youtube",
     "chapters"
-  ]
+  ],
+  "bugs": {
+    "url": "https://github.com/buikhacnam/youtube-chapters-finder/issues"
+  },
+  "homepage": "https://github.com/buikhacnam/youtube-chapters-finder#readme"
 }
